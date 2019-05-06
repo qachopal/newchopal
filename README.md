@@ -39,7 +39,7 @@
         • Instatiate Appium Server on the following address: Host:Port = localhost:4723  (http://127.0.0.1:4723/wd/hub)
         • Attached the mobile device Moto C Plus(7.0) by using USB with my Laptop and open the Vysor
 
-# Report will be generated in the following folders:
+# Reports will be generated inside the following folders:
 
         • AppiumMobileTest\test-output\emailable-report.html
         • AppiumMobileTest\test-output\index.html
