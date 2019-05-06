@@ -15,7 +15,7 @@
            • 'properties' folder consist the properties files.
            • 'runner' folder consist the 'testng.xml' file for run the Test Suite.
          
-# Test Cases ==> (AppiumMobileTest/src/test/java/testcases):
+# Test Cases exist inside folder (AppiumMobileTest/src/test/java/testcases):
 
         • Test Case: 1 => Open Selendroid App & Enter Input data in Textbox on HomePage.
         • Test Case: 2 => New User Registration by clicking on Registration button.
