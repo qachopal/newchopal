@@ -1,4 +1,4 @@
-• Functional test on Selendroid App:
+# Functional test on Selendroid App:
 
     • I used the Data Driven Approach by using the TestNG framwork.
 
