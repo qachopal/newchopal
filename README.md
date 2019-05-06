@@ -1,5 +1,18 @@
-1. Crate the APPIUM PROJECT
+•	Coding Assessment POC
 
-2. CODE FILES IN JAVA
+• Functional test on Selendroid App
 
-3. Resources files are in src folder
+
+•	Coding Assessment POC
+
+•	Coding Assessment POC
+
+•	Coding Assessment POC
+
+•	Coding Assessment POC
+
+•	Coding Assessment POC
+
+•	Coding Assessment POC
+
+•	Coding Assessment POC
