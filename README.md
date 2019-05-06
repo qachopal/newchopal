@@ -13,8 +13,8 @@
 •	The project Sturcture is as follows:
 
     • Under the folder (AppiumMobileTest/src/test/java) ==> 
-         • 'base' package consist the 'TestBase' class which is using the setting the DesiredCapabilities, Porperties files, Driver etc. and extend this class in all the above mentioned TestCases Classes.
-         •  Test Cases are created under the folder (src/test/java/testcases):
+         • 'base' package consist the 'TestBase' class which is using the setting the DesiredCapabilities, Porperties files, Driver etc. and extend this 'TestBase' class in all the above mentioned TestCases Classes.
+         •  Test Cases are created under the folder (AppiumMobileTestsrc/test/java/testcases):
          • 'utilities' package is used the common created uitlity classes.
          
      • Under the folder (AppiumMobileTestsrc/test/resources) ==> 
@@ -38,7 +38,7 @@
 
     •	Open the imported project in Eclipse
     •	Instatiate Appium Server on the following address: Host:Port = localhost:4723  (http://127.0.0.1:4723/wd/hub)
-    •	Attached the mobile device Moto C Plus(7.0) with my Laptop and open the Vysor
+    •	Attached the mobile device Moto C Plus(7.0) by using USB with my Laptop and open the Vysor
 
 •	Report will be generated in the following folders:
 
