@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Enter Data in TextBox at HomePage Test(failed)">
+    <classes>
+      <class name="testcases.EnterDataInTextBoxHomePageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="enterDataInTextBoxATHomePage" invocation-numbers="0 1 3"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testcases.EnterDataInTextBoxHomePageTest -->
+    </classes>
+  </test> <!-- Enter Data in TextBox at HomePage Test(failed) -->
+  <test thread-count="5" name="New User Registration Test(failed)">
+    <classes>
+      <class name="testcases.NewUserRegistrationTest">
+        <methods>
+          <include name="newUsrReg" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testcases.NewUserRegistrationTest -->
+    </classes>
+  </test> <!-- New User Registration Test(failed) -->
+  <test thread-count="5" name="New User Registratered successfully Test (failed)">
+    <classes>
+      <class name="testcases.RegisterConfirmedTest">
+        <methods>
+          <include name="regConfirm"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testcases.RegisterConfirmedTest -->
+    </classes>
+  </test> <!-- New User Registratered successfully Test (failed) -->
+  <test thread-count="5" name="Display Popup window Test (failed)">
+    <classes>
+      <class name="testcases.DisplayPopupTest">
+        <methods>
+          <include name="clicks_on_Display_Popup_button"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testcases.DisplayPopupTest -->
+    </classes>
+  </test> <!-- Display Popup window Test (failed) -->
+  <test thread-count="5" name="Display Toast Message Test (failed)">
+    <classes>
+      <class name="testcases.DisplayToastMessageTest">
+        <methods>
+          <include name="tostMessage"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testcases.DisplayToastMessageTest -->
+    </classes>
+  </test> <!-- Display Toast Message Test (failed) -->
+</suite> <!-- Failed suite [Suite] -->

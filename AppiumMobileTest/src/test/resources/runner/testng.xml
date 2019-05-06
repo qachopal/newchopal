@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+
+  
+  <test name="Enter Data in TextBox at HomePage Test">
+    <classes>
+      <class name="testcases.EnterDataInTextBoxHomePageTest"/>
+    </classes>
+  </test>
+  
+  <test name = "New User Registration Test">
+    <classes>
+      <class name="testcases.NewUserRegistrationTest"/>
+    </classes>
+  </test> 
+  
+  <test name = "New User Registratered successfully Test ">
+    <classes>
+      <class name="testcases.RegisterConfirmedTest"/>
+    </classes>
+  </test> 
+  
+  <test name = "Display Popup window Test ">
+    <classes>
+      <class name="testcases.DisplayPopupTest"/>
+    </classes>
+  </test> 
+  
+    <test name = "Display Toast Message Test ">
+    <classes>
+      <class name="testcases.DisplayToastMessageTest"/>
+    </classes>
+  </test> 
+  
+   
+  
+  
+</suite> <!-- Suite -->
+	
