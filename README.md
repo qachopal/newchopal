@@ -2,10 +2,10 @@
 
         • I used the Data Driven Approach by using the TestNG framwork.
     
-•	The project Sturcture is as follows:
+# The project Sturcture is as follows:
 
-    • Under the folder (AppiumMobileTest/src/test/java) ==> 
-         • 'base' package consist the 'TestBase' class which is using the setting the DesiredCapabilities, Porperties files, Driver etc. and extend this 'TestBase' class in all the above mentioned TestCases Classes.
+        • Under the folder (AppiumMobileTest/src/test/java) ==> 
+        • 'base' package consist the 'TestBase' class which is using the setting the DesiredCapabilities, Porperties files, Driver etc. and extend this 'TestBase' class in all the above mentioned TestCases Classes.
          •  Test Cases are created under the folder (AppiumMobileTestsrc/test/java/testcases):
          • 'utilities' package is used the common created uitlity classes.
          
