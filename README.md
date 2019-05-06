@@ -5,23 +5,23 @@
 # The project Sturcture is as follows:
 
         # Under the folder (AppiumMobileTest/src/test/java) ==> 
-          • 'base' package consist the 'TestBase' class which is using the setting the DesiredCapabilities, Porperties files, Driver etc. and extend this 'TestBase' class in all the above mentioned TestCases Classes.
-          •  Test Cases are created under the folder (AppiumMobileTestsrc/test/java/testcases):
-        • 'utilities' package is used the common created uitlity classes.
+           • 'base' package consist the 'TestBase' class which is using the setting the DesiredCapabilities, Porperties files, Driver etc. and extend this 'TestBase' class in all the above mentioned TestCases Classes.
+           •  Test Cases are created under the folder (AppiumMobileTestsrc/test/java/testcases):
+           • 'utilities' package is used the common created uitlity classes.
          
-     • Under the folder (AppiumMobileTestsrc/test/resources) ==> 
-         • 'excel' folder consist the '.xlsx' file for reading the data from ".xlsx" file 
-         • 'logs' folder consist the 'Application.log' and 'Selenium.log' files for maintaing the user logs and System logs respectively
-         • 'properties' folder consist the properties files.
-         • 'runner' folder consist the 'testng.xml' file for run the Test Suite.
+        # Under the folder (AppiumMobileTestsrc/test/resources) ==> 
+           • 'excel' folder consist the '.xlsx' file for reading the data from ".xlsx" file 
+           • 'logs' folder consist the 'Application.log' and 'Selenium.log' files for maintaing the user logs and System logs respectively
+           • 'properties' folder consist the properties files.
+           • 'runner' folder consist the 'testng.xml' file for run the Test Suite.
          
 # Test Cases ==> (AppiumMobileTest/src/test/java/testcases):
 
-    • Test Case: 1 => Open Selendroid App & Enter Input data in Textbox on HomePage.
-    • Test Case: 2 => New User Registration by clicking on Registration button.
-    • Test Case: 3 => User Successfully Register confirmation Page.
-    • Test Case: 4 => Display Popup Message by clicking on Display Popup Window and then dismiss the popup window.
-    • Test Case: 5 => Display Toast Message.
+        • Test Case: 1 => Open Selendroid App & Enter Input data in Textbox on HomePage.
+        • Test Case: 2 => New User Registration by clicking on Registration button.
+        • Test Case: 3 => User Successfully Register confirmation Page.
+        • Test Case: 4 => Display Popup Message by clicking on Display Popup Window and then dismiss the popup window.
+        • Test Case: 5 => Display Toast Message.
     
 
 •	Installation Pre-requisites:
