@@ -24,26 +24,25 @@
         • Test Case: 5 => Display Toast Message.
     
 
-•	Installation Pre-requisites:
+# Installation Pre-requisites:
 
-    • Install JDK
-    • Install Eclipse
-    • Install Android SDK
-    • Install Android API version 7.0
-    • Install Appium for Windows
-    • Install PdaNet+
-   
+        • Install JDK
+        • Install Eclipse
+        • Install Android SDK
+        • Install Android API version 7.0
+        • Install Appium for Windows
+        • Install PdaNet+   
 
-•	Steps to execute the code:
+# Steps to execute the code:
 
-    •	Open the imported project in Eclipse
-    •	Instatiate Appium Server on the following address: Host:Port = localhost:4723  (http://127.0.0.1:4723/wd/hub)
-    •	Attached the mobile device Moto C Plus(7.0) by using USB with my Laptop and open the Vysor
+        • Open the imported project in Eclipse
+        • Instatiate Appium Server on the following address: Host:Port = localhost:4723  (http://127.0.0.1:4723/wd/hub)
+        • Attached the mobile device Moto C Plus(7.0) by using USB with my Laptop and open the Vysor
 
-•	Report will be generated in the following folders:
+# Report will be generated in the following folders:
 
-    • AppiumMobileTest\test-output\emailable-report.html
-    • AppiumMobileTest\test-output\index.html
+        • AppiumMobileTest\test-output\emailable-report.html
+        • AppiumMobileTest\test-output\index.html
     
     
 
