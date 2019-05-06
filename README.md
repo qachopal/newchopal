@@ -4,7 +4,7 @@
     
 # The project Sturcture is as follows:
 
-        • Under the folder (AppiumMobileTest/src/test/java) ==> 
+        # Under the folder (AppiumMobileTest/src/test/java) ==> 
           • 'base' package consist the 'TestBase' class which is using the setting the DesiredCapabilities, Porperties files, Driver etc. and extend this 'TestBase' class in all the above mentioned TestCases Classes.
           •  Test Cases are created under the folder (AppiumMobileTestsrc/test/java/testcases):
         • 'utilities' package is used the common created uitlity classes.
