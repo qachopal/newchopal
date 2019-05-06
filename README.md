@@ -1,14 +1,6 @@
 # Functional test on Selendroid App:
 
     • I used the Data Driven Approach by using the TestNG framwork.
-
-•	Test Cases ==> (AppiumMobileTest/src/test/java/testcases):
-
-    • Test Case: 1 => Open Selendroid App & Enter Input data in Textbox on HomePage.
-    • Test Case: 2 => New User Registration by clicking on Registration button.
-    • Test Case: 3 => User Successfully Register confirmation Page.
-    • Test Case: 4 => Display Popup Message by clicking on Display Popup Window and then dismiss the popup window.
-    • Test Case: 5 => Display Toast Message.
     
 •	The project Sturcture is as follows:
 
@@ -22,6 +14,14 @@
          • 'logs' folder consist the 'Application.log' and 'Selenium.log' files for maintaing the user logs and System logs respectively
          • 'properties' folder consist the properties files.
          • 'runner' folder consist the 'testng.xml' file for run the Test Suite.
+         
+# Test Cases ==> (AppiumMobileTest/src/test/java/testcases):
+
+    • Test Case: 1 => Open Selendroid App & Enter Input data in Textbox on HomePage.
+    • Test Case: 2 => New User Registration by clicking on Registration button.
+    • Test Case: 3 => User Successfully Register confirmation Page.
+    • Test Case: 4 => Display Popup Message by clicking on Display Popup Window and then dismiss the popup window.
+    • Test Case: 5 => Display Toast Message.
     
 
 •	Installation Pre-requisites:
