@@ -2,7 +2,7 @@
 
     • I used the Data Driven Approach by using the TestNG framwork.
 
-•	Test Cases ==> (src/test/java/testcases):
+•	Test Cases ==> (AppiumMobileTest/src/test/java/testcases):
 
     • Test Case: 1 => Open Selendroid App & Enter Input data in Textbox on HomePage.
     • Test Case: 2 => New User Registration by clicking on Registration button.
@@ -12,12 +12,12 @@
     
 •	The project Sturcture is as follows:
 
-    • Under the folder (src/test/java) ==> 
-         • 'base' package consist the 'TestBase' class which is using the setting the DesiredCapabilities, Porperties files, Driver etc.
+    • Under the folder (AppiumMobileTest/src/test/java) ==> 
+         • 'base' package consist the 'TestBase' class which is using the setting the DesiredCapabilities, Porperties files, Driver etc. and extend this class in all the above mentioned TestCases Classes.
          •  Test Cases are created under the folder (src/test/java/testcases):
          • 'utilities' package is used the common created uitlity classes.
          
-     • Under the folder (src/test/resources) ==> 
+     • Under the folder (AppiumMobileTestsrc/test/resources) ==> 
          • 'excel' folder consist the '.xlsx' file for reading the data from ".xlsx" file 
          • 'logs' folder consist the 'Application.log' and 'Selenium.log' files for maintaing the user logs and System logs respectively
          • 'properties' folder consist the properties files.
