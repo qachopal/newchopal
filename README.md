@@ -1,5 +1,5 @@
-Crate the APPIUM PROJECT
+1. Crate the APPIUM PROJECT
 
-CODE FILES IN JAVA
+2. CODE FILES IN JAVA
 
-Resources files are in src folder
+3. Resources files are in src folder
